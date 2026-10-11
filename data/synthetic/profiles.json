@@ -1,0 +1,239 @@
+[
+  {
+    "user_id": "u001",
+    "bio": "Design student who spends most weekends rock climbing or shooting film photography around the city.",
+    "cohort": "2026-T2",
+    "arrival_date": "2026-07-06",
+    "courses": [
+      "AIML339",
+      "DESN301"
+    ],
+    "display_name": "Mia",
+    "home_institution": null
+  },
+  {
+    "user_id": "u002",
+    "bio": "Into outdoor sports and visual storytelling -- hiking most weekends, always carrying a camera.",
+    "cohort": "2026-T2",
+    "arrival_date": "2026-07-10",
+    "courses": [
+      "AIML339",
+      "COMP307"
+    ],
+    "display_name": "Theo",
+    "home_institution": null
+  },
+  {
+    "user_id": "u003",
+    "bio": "Data science student obsessed with machine learning research, plays chess competitively in her free time.",
+    "cohort": "2026-T2",
+    "arrival_date": "2026-07-08",
+    "courses": [
+      "AIML339",
+      "COMP307",
+      "MATH301"
+    ],
+    "display_name": "Priya",
+    "home_institution": null
+  },
+  {
+    "user_id": "u004",
+    "bio": "Studying economics, spends free time reading about markets and playing five-a-side football on weekends.",
+    "cohort": "2026-T2",
+    "arrival_date": "2026-08-20",
+    "courses": [
+      "ECON301",
+      "FCOM201"
+    ],
+    "display_name": "Noah",
+    "home_institution": null
+  },
+  {
+    "user_id": "u005",
+    "bio": "Marine biology student who volunteers at a local aquarium and loves scuba diving whenever possible.",
+    "cohort": "2026-T3",
+    "arrival_date": "2026-09-15",
+    "courses": [
+      "BIOL305",
+      "ENVX201"
+    ],
+    "display_name": "Sofia",
+    "home_institution": null
+  },
+  {
+    "user_id": "u006",
+    "bio": "Environmental science major passionate about ocean conservation, does beach cleanups most weekends.",
+    "cohort": "2026-T3",
+    "arrival_date": "2026-09-18",
+    "courses": [
+      "BIOL305",
+      "ENVX201"
+    ],
+    "display_name": "Kai",
+    "home_institution": null
+  },
+  {
+    "user_id": "u007",
+    "bio": "Music composition student, plays in a jazz trio and is always looking for people to jam with.",
+    "cohort": "2026-T2",
+    "arrival_date": "2026-07-12",
+    "courses": [
+      "MUSC220"
+    ],
+    "display_name": "Aroha",
+    "home_institution": null
+  },
+  {
+    "user_id": "u008",
+    "bio": "Computer science student who builds small indie games in his spare time and loves board game nights.",
+    "cohort": "2026-T2",
+    "arrival_date": "2026-07-05",
+    "courses": [
+      "AIML339",
+      "COMP307"
+    ],
+    "display_name": "Liam",
+    "home_institution": null
+  },
+  {
+    "user_id": "u009",
+    "bio": "Law student focused on international human rights, debates competitively and volunteers with refugee support groups.",
+    "cohort": "2026-T3",
+    "arrival_date": "2026-09-20",
+    "courses": [
+      "LAWS301",
+      "POLS210"
+    ],
+    "display_name": "Elena",
+    "home_institution": null
+  },
+  {
+    "user_id": "u010",
+    "bio": "Political science student interested in international relations, active in Model UN and public debate.",
+    "cohort": "2026-T3",
+    "arrival_date": "2026-09-22",
+    "courses": [
+      "LAWS301",
+      "POLS210"
+    ],
+    "display_name": "Marco",
+    "home_institution": null
+  },
+  {
+    "user_id": "u011",
+    "bio": "Architecture student who sketches buildings on every walk and is slowly filling a notebook with city studies.",
+    "cohort": "2026-T2",
+    "arrival_date": "2026-07-14",
+    "courses": [
+      "ARCH250",
+      "DESN301"
+    ],
+    "display_name": "Yuki",
+    "home_institution": null
+  },
+  {
+    "user_id": "u012",
+    "bio": "Mechanical engineering student who spends weekends fixing up an old motorbike and going on long rides.",
+    "cohort": "2026-T2",
+    "arrival_date": "2026-08-25",
+    "courses": [
+      "MECH240"
+    ],
+    "display_name": "Ben",
+    "home_institution": null
+  },
+  {
+    "user_id": "u013",
+    "bio": "Psychology student fascinated by cognitive science, runs a small book club focused on nonfiction.",
+    "cohort": "2026-T3",
+    "arrival_date": "2026-09-16",
+    "courses": [
+      "AIML339",
+      "PSYC220"
+    ],
+    "display_name": "Isabella",
+    "home_institution": null
+  },
+  {
+    "user_id": "u014",
+    "bio": "Studying cognitive science and AI, curious about how the brain and machine learning models compare.",
+    "cohort": "2026-T3",
+    "arrival_date": "2026-09-14",
+    "courses": [
+      "AIML339",
+      "PSYC220"
+    ],
+    "display_name": "Daniel",
+    "home_institution": null
+  },
+  {
+    "user_id": "u015",
+    "bio": "Nursing student who volunteers at a community health clinic and trains for half marathons on the side.",
+    "cohort": "2026-T2",
+    "arrival_date": "2026-07-09",
+    "courses": [
+      "NURS210"
+    ],
+    "display_name": "Grace",
+    "home_institution": null
+  },
+  {
+    "user_id": "u016",
+    "bio": "Finance student who's into long-distance running and spreadsheets in roughly equal measure.",
+    "cohort": "2026-T2",
+    "arrival_date": "2026-07-07",
+    "courses": [
+      "ECON301",
+      "FCOM201"
+    ],
+    "display_name": "Oscar",
+    "home_institution": null
+  },
+  {
+    "user_id": "u017",
+    "bio": "Film studies student who programs a small campus screening series and writes reviews in her spare time.",
+    "cohort": "2026-T3",
+    "arrival_date": "2026-09-19",
+    "courses": [
+      "FILM215"
+    ],
+    "display_name": "Hana",
+    "home_institution": null
+  },
+  {
+    "user_id": "u018",
+    "bio": "Studies statistics and loves board games, especially anything with a heavy strategic element.",
+    "cohort": "2026-T2",
+    "arrival_date": "2026-07-11",
+    "courses": [
+      "AIML339",
+      "MATH301"
+    ],
+    "display_name": "Lucas",
+    "home_institution": null
+  },
+  {
+    "user_id": "u019",
+    "bio": "Studying public health with a focus on epidemiology, volunteers weekly at a food bank.",
+    "cohort": "2026-T3",
+    "arrival_date": "2026-09-17",
+    "courses": [
+      "ENVX201",
+      "NURS210"
+    ],
+    "display_name": "Amara",
+    "home_institution": null
+  },
+  {
+    "user_id": "u020",
+    "bio": "Philosophy student who runs a small podcast about ethics in technology, into rock climbing on weekends.",
+    "cohort": "2026-T2",
+    "arrival_date": "2026-08-22",
+    "courses": [
+      "AIML339",
+      "PHIL200"
+    ],
+    "display_name": "Felix",
+    "home_institution": null
+  }
+]
