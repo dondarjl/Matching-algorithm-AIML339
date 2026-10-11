@@ -1,15 +1,15 @@
-""" 
+"""
 Track 2 domain-transfer demonstration: run the same feature pipeline used
 for Track 1 on the synthetic Conecta profiles, and inspect the top-ranked
-pairs by an unsupervised composite score.
+pairs by fusion score vs. by embedding-only score.
 
 There's no ground-truth `match` label for synthetic profiles (unlike Speed
-Dating), and two Conecta features (course_overlap_jaccard, same_cohort) have
-no Speed Dating equivalent, so Track 1's fitted fusion weights cannot be
-transferred here. This track isn't about training/testing a classifier --
-it's a qualitative check that the four Conecta pairwise features (including
-the embedding similarity) compose into sensible-looking rankings on
-genuinely different, Conecta-shaped data.
+Dating), so no classifier is trained or evaluated here and the Track 1 fitted
+models are NOT reused (two Conecta features, same_cohort and
+course_overlap_jaccard, have no Speed Dating counterpart). Instead the four
+pairwise features are combined as an unweighted mean (composite score) and
+the pairs are ranked. This is a qualitative face-validity demonstration of
+domain transfer, not an evaluated model.
 
 Usage:
     python demo_track2.py            # mock embedder, fully offline

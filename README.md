@@ -73,6 +73,7 @@ Run from `src/`. Each command was run with `--real`; logs are in `results/`.
 python validate_sts_benchmark.py --real        # embedder sanity check (Spearman r = 0.82)
 python compare_three_models.py --real          # MAIN: Tables I-IV, Holm, per-participant tests
 python validate_rich_proxy.py --real           # negative result: rich text proxy (Section VIII-E)
+python demo_track2.py --real                  # Track 2 qualitative demo (Table V)
 python make_figures.py                         # Fig. 1 and Fig. 2 -> results/
 ```
 
